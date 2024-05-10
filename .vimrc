@@ -63,6 +63,9 @@ set cindent
 set smartindent
 autocmd FileType javascript,typescript setlocal shiftwidth=2 tabstop=2
 
+" Paste toggle
+set pastetoggle=<F12>
+
 
 
 " Install vim-plug if not found
